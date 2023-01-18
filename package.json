@@ -1,0 +1,31 @@
+{
+  "name": "02-igniting-our-app",
+  "version": "1.0.0",
+  "description": "Creating own create react app",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvi-C/02-igniting-our-app.git"
+  },
+  "author": "Alvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alvi-C/02-igniting-our-app/issues"
+  },
+  "homepage": "https://github.com/Alvi-C/02-igniting-our-app#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "browserslist":[
+    "last 6 versions"
+  ]
+}

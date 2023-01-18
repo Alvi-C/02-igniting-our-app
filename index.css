@@ -1,0 +1,13 @@
+#heading{
+    color: rgb(9, 110, 9);
+}
+
+#para{
+    color: white;
+}
+
+#topics-container{
+    background-color: limegreen;
+    width: 25%;
+    padding: 20px;
+}
